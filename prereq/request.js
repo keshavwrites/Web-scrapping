@@ -1,4 +1,4 @@
-const req= require('request');
+ 
 const cheerio=require('cheerio');                   // ye extractor h jo humare matlab ki cheez nikal ke dega html se
 const request = require('request');
 request('https://www.worldometers.info/coronavirus/#', cb);
